@@ -15,7 +15,7 @@ public class Worker {
      * ne font pas partie de la norme.
      * 
      * Les numéros de téléhone contienne que des chiffres entre 0-9, espace inclus, tous autre
-     * caractère ne fait pas partie de la norme. Les numéros doivent avoir un espace entre chaque partie du numéro : exemple +4177 798 98 98
+     * caractère ne fait pas partie de la norme.
      * 
      * @param prefix préfix du téléphone 
      * @param numero numéro du téléphone
